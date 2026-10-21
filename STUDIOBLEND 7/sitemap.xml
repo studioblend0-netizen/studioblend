@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Replace YOUR-DOMAIN.com with your real website address (run ./set-domain.sh yourdomain.com) -->
+  <url>
+    <loc>https://YOUR-DOMAIN.com/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://YOUR-DOMAIN.com/assets/og-image.jpg</image:loc>
+      <image:title>StudioBlend – Digital Marketing Freelancer in Chennai &amp; Jolarpet</image:title>
+    </image:image>
+  </url>
+</urlset>

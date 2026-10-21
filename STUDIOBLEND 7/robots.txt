@@ -1,0 +1,7 @@
+# StudioBlend robots.txt
+# IMPORTANT: replace YOUR-DOMAIN.com with your real domain (run ./set-domain.sh yourdomain.com)
+User-agent: *
+Allow: /
+Disallow: /*.sh$
+
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
